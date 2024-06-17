@@ -1,4 +1,4 @@
-**# Tic-Tac-Toe-Game**
+**Tic-Tac-Toe-Game**
 A simple Tic Tac Toe game developed using HTML, CSS, and JavaScript. The game features a clean and user-friendly interface, allowing players to compete against a basic AI opponent. The AI selects random empty slots, providing an enjoyable challenge for players. Images are used instead of FontAwesome icons to represent the X and O marks, enhancing the visual appeal of the game.
 
 _**Features**_
